@@ -1,2 +1,2 @@
 # github-lesson-test
-Testing repo for demonstrations.
+This is a place for positive feedback only.
